@@ -1,0 +1,134 @@
+.menubar{
+    width: 900px;
+    display: flex;
+    margin: auto;
+    background-color: white;
+}
+.logo{
+    width:35% ;
+}
+.logo img{
+    height: 100px;px ;
+    margin-left: 90px;
+}
+.menuitem{
+    width:65% ;
+}
+.menuitem a{
+    color:blue;
+    font-family: fantasy;
+    font-size: 20px;
+    padding: 5px;
+    line-height: 40px;
+    text-transform: capitalize;
+    
+
+}
+.banner img{
+    
+    margin-top: 20px;
+    border: 5px solid ghostwhite;
+}
+.about{
+    width: 900px;
+    display: flex;
+    margin: auto;
+    margin-top: 80px;
+    
+}
+.abimege{
+    width: 50%;
+}
+.abimege img{
+    width: 100%;
+}
+.abtext{
+    width: 50%;
+}
+.abtext{
+    line-height: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.gallery{
+    background-color: beige;
+    display: flex;
+
+}
+.gaimege{
+      width: 25%;
+      border: 5px solid plum;
+      margin: 20px;
+}
+.gaimege img{
+    width: 100%;
+    margin-top: 80px;
+    
+}
+.gallery2{
+    background-color: beige;
+    display: flex;
+    margin-bottom: 80px;
+
+}
+.gaimege2{
+    width: 25%;
+    border: 5px solid plum;
+    margin: 20px;
+}
+.gaimege2 img{
+    width: 100%;
+}
+.gaimege2 h3{
+    text-align: center;
+}
+.gaimege{
+    text-align: ce;
+}
+    
+}
+.map{
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: plum;
+
+}
+.yt{
+    display: flex;
+}
+.yt h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: plum;
+}
+.contact{
+    width: 950px;
+    margin: auto;
+    display: flex;
+    margin-top: 80px;
+}
+,.contact info{
+    height: 58px;
+}
+.info{
+    width: 50%;
+    margin-right: 30px;
+}
+.contact .info img{
+    height: 50px;
+}
+.contact h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: plum;
+}
+.contact info a{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+}
